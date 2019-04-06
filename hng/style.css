@@ -23,3 +23,10 @@
     padding: 1rem;
     background-color: rgba(0,0,0,0.03);
 } 
+
+/* Draft page Styling begins here */
+.story_btn{color: rgb(19, 17, 17);background-color:white; border: 1px solid rgb(42, 41, 41)}
+.story_btn:hover{background-color: rgb(42, 41, 41)}
+.story_col{margin-top: 60px}
+.first_col{text-align: center}
+.menu{list-style: none; margin-left:-40px}
